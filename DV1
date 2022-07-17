@@ -1,0 +1,31 @@
+- Data visualization can be a way to show complex data from equations into graphical images that convey the results of research.
+
+- Data visualization is attractive because it can be effective if done right, to convey the underlying findings to non-technical people.
+
+- It is important to show effective graphics and not to produce unreadable confusing statistical art
+- knowing what is unneccessary (additional features) and what is confusing is important 
+- no redundancy 
+
+
+- Matplotlib and Folium are user beginner friendly 
+
+- Matplotlib is made up of 3 parts, back end, artists layer, and top level.
+
+Data Cleaning  ------ Charting Empty Cells, absent vs 0 
+
+Ther Great 'Pivot'
+PivotCharts & PivotTables
+
+
+Excel :
+Data > Get & Transform Data > Get Data
+
+
+Multiple tables from the same data source? ---> Enable selection of multiple tables
+
+Create Relationships between your tables
+
+
+DD tools like Power Pivot's Diagram View
+
+
