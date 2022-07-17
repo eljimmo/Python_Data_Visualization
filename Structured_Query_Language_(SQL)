@@ -1,0 +1,23 @@
+Managing relational databases 
+or really just calling data from a excelsheet
+
+I will be using the Facebook Data set I cleaned and parsed to show the example.
+
+
+
+First and foremost, SQL is easy to understand if you understand the syntax behind it, that being said I am not a jedi in the art of SQL, always a learner
+
+
+with SQL you can modify datasets, indexing structures, and retrieve data from these databases.
+
+"Views" "Indexes" and "Reports"
+
+CREATE VIEW Syntax
+
+CREATE VIEW view_name AS
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+###literally just plain text, not assembly code or python. 
+
