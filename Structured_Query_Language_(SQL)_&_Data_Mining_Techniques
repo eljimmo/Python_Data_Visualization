@@ -1,0 +1,58 @@
+Managing relational databases 
+or really just calling data from a excelsheet
+
+I will be using the Facebook Data set I cleaned and parsed to show the example.
+
+
+
+First and foremost, SQL is easy to understand if you understand the syntax behind it, that being said I am not a jedi in the art of SQL, always a learner
+
+
+with SQL you can modify datasets, indexing structures, and retrieve data from these databases.
+
+
+"Views" "Indexes" and "Reports"
+
+CREATE VIEW Syntax
+
+CREATE VIEW view_name AS
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+CREATE INDEX Example
+
+CREATE INDEX idx_lastname
+ON Persons (LastName);
+
+
+
+###literally just plain text, not assembly code or python. 
+
+####### Data Mining ##############
+
+‘Getting Started with Data Science’ Publisher: IBM Press; 1 edition (Dec 13 2015) Print.
+
+
+1. Establishing Data Mining Goals (clarifying the objective | identify the key questions | levels of accuracy from data mining)
+2. Selecting Data (Output of mining exercise depends upon quality used)
+3. Preprocessing Data (Raw data is messy, error prone, missing info, integrity checks)
+4. Transforming Data (Appropriate format in which data must be stored | reduce the number of attributes needed to explain the phenomena |  transforming data Data reduction algorithms,
+such as Principal Component Analysis | continous variables might fit into categorical variables (eg income) where infomation might better explain non-linear behaviors)
+5. Mining Data (analysis methods, including parametric and non-parametric methods, machine-learning algorithms, etc..)
+6 Evaluate and Disseminate results
+
+
+
+Principal Component Analysis
+
+####https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+
+PCA = reduction method to reduce the dimensionality of large data,
+transforming a large data variables into a smaller variables that still contains most of the information in the large set.
+
+STANDARDIZATION, +  COVARIANCE MATRIX COMPUTATION, = IDENTIFYING THE PRINCIPAL COMPONENTS of a large data set. 
+
+In Sample Forecasts = "testing of algorithm predictive capabilities"
+
+
