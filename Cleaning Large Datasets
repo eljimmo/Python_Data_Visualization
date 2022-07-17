@@ -1,0 +1,35 @@
+Parsing Data
+
+
+Delimiter Signs; colon, comma, semicolon, space, equal sign, or tabs using data --> power query 
+
+
+or using formulas
+
+
+Data Type Detection ---> Based upon question needing to be answered, sometimes datasets are huge and not all data is good data or necessary data 
+
+Correcting data types between integers or strings, currency vs general......
+
+Example:
+/#https://perso.telecom-paristech.fr/eagan/class/igr204/datasets
+
+/using Facebook data
+
+/start cleaning or parsing 
+
+/Headers of column 
+
+/ columns -> Data Tab 
+
+/Text to Columns 
+
+/Selecty Delimeter --> /Select Column  Data Formating --->/Data Destination 
+
+/handle empty cells, data types, data variations between 1 variable(data), and spelling + capitalization. (this will depend on if data mining, you can inadvertently 
+ruin or alter datasets. Pratice safety always, ask for help)
+
+
+
+
+
