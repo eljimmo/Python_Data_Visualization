@@ -1,7 +1,7 @@
 Managing relational databases 
 or really just calling data from a excelsheet
 
-I will be using the Facebook Data set I cleaned and parsed to show the example.
+I will be using the Factbook Data set I cleaned and parsed to show the example.
 
 
 
@@ -54,5 +54,7 @@ transforming a large data variables into a smaller variables that still contains
 STANDARDIZATION, +  COVARIANCE MATRIX COMPUTATION, = IDENTIFYING THE PRINCIPAL COMPONENTS of a large data set. 
 
 In Sample Forecasts = "testing of algorithm predictive capabilities"
+
+
 
 
